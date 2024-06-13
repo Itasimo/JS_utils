@@ -1,5 +1,5 @@
 /**
- * ### Count the number of times a value appears in an array
+ * #### Count the number of times a value appears in an array
  * 
  * @this Array The array to count the value in.
  * @param {Number | String} value - The value to count.

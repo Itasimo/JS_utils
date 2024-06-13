@@ -1,5 +1,5 @@
 /**
- * ### Retrieves the value from a JSON object based on the given path.
+ * #### Retrieves the value from a JSON object based on the given path.
  * 
  *
  * @this JSON The array to count the value in.

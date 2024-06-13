@@ -1,6 +1,6 @@
 /**
  * 
- * ### RC4
+ * #### RC4
  * 
  * RC4 is a stream cipher. It encrypts data by XORing it with a pseudo-random stream of bytes, **is not considered secure for SSL/TLS**.
  * [See more](https://en.wikipedia.org/wiki/RC4)
